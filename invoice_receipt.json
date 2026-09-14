@@ -14,5 +14,6 @@
   "destination_type": "PAYPAL",
   "final_dispatch_identifier": "0xf23370dD7A8edB684044A72cd07443688766B6Fc",
   "payment_channel": "STRIPE_CHECKOUT",
-  "stripe_link": "https://buy.stripe.com/eVqaEY6ZW3WG1qz17ggYU00"
+  "stripe_link": "https://buy.stripe.com/eVqaEY6ZW3WG1qz17ggYU00",
+  "settlement_status": "SUBMITTED_FOR_PROCESSING"
 }

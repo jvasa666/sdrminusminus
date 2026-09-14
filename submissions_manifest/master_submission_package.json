@@ -1,0 +1,44 @@
+[
+  {
+    "platform": "Superteam Earn",
+    "bounty": "Solana Summit Canada Creator Challenge - part 1",
+    "reward": "10,000 USDG",
+    "poc": "Superteam Canada Reviewers / Event Organizers",
+    "submission_file": "solana_summit_submission.json"
+  },
+  {
+    "platform": "Superteam Earn",
+    "bounty": "BAXUS Vending Machine Spins",
+    "reward": "7,000 USDC",
+    "poc": "BAXUS Project Team",
+    "submission_file": "pipelines/bounty_101_pipeline.json"
+  },
+  {
+    "platform": "Superteam Earn",
+    "bounty": "KriptoK League Trade & Share",
+    "reward": "2,000 USDC",
+    "poc": "KriptoK Community Leads",
+    "submission_file": "pipelines/active_focus_batch.json"
+  },
+  {
+    "platform": "Superteam Earn",
+    "bounty": "Spout Finance Product Feedback",
+    "reward": "1,000 USDC",
+    "poc": "Spout Finance Product Team",
+    "submission_file": "pipelines/active_focus_batch.json"
+  },
+  {
+    "platform": "Superteam Earn",
+    "bounty": "Steve Agent Arena",
+    "reward": "500 USDC",
+    "poc": "OOBE Protocol Maintainers",
+    "submission_file": "pipelines/active_focus_batch.json"
+  },
+  {
+    "platform": "Superteam Earn",
+    "bounty": "Mermail Agent Skill Demo",
+    "reward": "500 USDC",
+    "poc": "Mermail Integration Team",
+    "submission_file": "pipelines/active_focus_batch.json"
+  }
+]

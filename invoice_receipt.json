@@ -18,5 +18,6 @@
   "settlement_status": "COMPLETED",
   "final_confirmation": "STRIPE_CHECKOUT_SUCCESSFUL",
   "vercel_deployment": "jvasa666/sdrminusminus",
-  "vercel_status": "READY_FOR_IMPORT"
+  "vercel_status": "READY_FOR_IMPORT",
+  "vercel_integration_status": "SYNCED_AND_READY"
 }

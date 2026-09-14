@@ -2,5 +2,6 @@
   "id": 7,
   "target": "Cookie Chain",
   "reward": "1000 USDC",
-  "status": "DEPLOYED_AND_ACTIVE"
+  "status": "DEPLOYED_AND_ACTIVE",
+  "execution_status": "VERIFIED_AND_SUBMITTED"
 }

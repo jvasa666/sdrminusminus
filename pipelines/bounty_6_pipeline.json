@@ -2,5 +2,6 @@
   "id": 6,
   "target": "KriptoK",
   "reward": "2000 USDC",
-  "status": "DEPLOYED_AND_ACTIVE"
+  "status": "DEPLOYED_AND_ACTIVE",
+  "execution_status": "VERIFIED_AND_SUBMITTED"
 }

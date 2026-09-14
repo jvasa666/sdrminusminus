@@ -2,5 +2,6 @@
   "id": 1,
   "target": "Terminal 3 Network",
   "reward": "290 USDC",
-  "status": "DEPLOYED_AND_ACTIVE"
+  "status": "DEPLOYED_AND_ACTIVE",
+  "execution_status": "VERIFIED_AND_SUBMITTED"
 }

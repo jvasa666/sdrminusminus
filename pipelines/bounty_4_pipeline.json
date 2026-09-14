@@ -2,5 +2,6 @@
   "id": 4,
   "target": "OOBE Protocol",
   "reward": "500 USDC",
-  "status": "DEPLOYED_AND_ACTIVE"
+  "status": "DEPLOYED_AND_ACTIVE",
+  "execution_status": "VERIFIED_AND_SUBMITTED"
 }

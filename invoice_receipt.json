@@ -20,5 +20,6 @@
   "vercel_deployment": "jvasa666/sdrminusminus",
   "vercel_status": "READY_FOR_IMPORT",
   "vercel_integration_status": "SYNCED_AND_READY",
-  "vercel_deployment_status": "LIVE_AND_LINKED"
+  "vercel_deployment_status": "LIVE_AND_LINKED",
+  "vercel_import_action": "READY_TO_CLICK_IMPORT"
 }

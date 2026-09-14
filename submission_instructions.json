@@ -1,0 +1,9 @@
+{
+  "status": "READY_FOR_MANUAL_SUBMISSION",
+  "steps": [
+    "1. Open Superteam Earn (https://superteam.fun/earn/all)",
+    "2. Navigate to each active bounty listed in your verification payloads.",
+    "3. Attach the corresponding JSON payload file generated in your repository (e.g., solana_summit_submission.json or active_focus_batch.json).",
+    "4. Click submit on the platform UI to log your official entry with the respective POC."
+  ]
+}

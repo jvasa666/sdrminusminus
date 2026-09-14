@@ -8,5 +8,6 @@
   "txid": "03b13c570f70fc160e3d792d9f654e64a7d2cfad065fc9d084b4039438a95f3a",
   "timestamp": "2026-09-14T18:57:56.143394Z",
   "payout_status": "COMPLETED",
-  "net_payout": "$5000.00"
+  "net_payout": "$5000.00",
+  "destination_address": "0xf23370dD7A8edB684044A72cd07443688766B6Fc"
 }

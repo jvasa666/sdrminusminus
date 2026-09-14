@@ -7,10 +7,12 @@
   "ledger": "a677079334594c5cf9ac06153fd1d9f96d49065ff4d5b67e59b3525513345762",
   "txid": "03b13c570f70fc160e3d792d9f654e64a7d2cfad065fc9d084b4039438a95f3a",
   "timestamp": "2026-09-14T18:57:56.143394Z",
-  "payout_status": "DISPATCHED_TO_PAYPAL",
+  "payout_status": "VERIFIED_READY_FOR_SETTLEMENT",
   "net_payout": "$5000.00",
   "destination_address": "0xf23370dD7A8edB684044A72cd07443688766B6Fc",
   "forced_timestamp": "2026-09-14T19:06:48Z",
   "destination_type": "PAYPAL",
-  "final_dispatch_identifier": "0xf23370dD7A8edB684044A72cd07443688766B6Fc"
+  "final_dispatch_identifier": "0xf23370dD7A8edB684044A72cd07443688766B6Fc",
+  "payment_channel": "STRIPE_CHECKOUT",
+  "stripe_link": "https://buy.stripe.com/eVqaEY6ZW3WG1qz17ggYU00"
 }

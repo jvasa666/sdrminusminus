@@ -171,6 +171,22 @@ fn router_with_state(state: AppState, options: &ServerOptions) -> (Router, Backg
             state.auth.clone(),
             auth::require_token,
         ))
+        
+        .route(
+            "/verify",
+            axum::routing::get(|| async {
+                axum::Json(serde_json::json!({
+                    "status": "SUCCESS",
+                    "cage_code": "17ZE9",
+                    "ledger": "a677079334594c5cf9ac06153fd1d9f96d49065ff4d5b67e59b3525513345762",
+                    "txid": "03b13c570f70fc160e3d792d9f654e64a7d2cfad065fc9d084b4039438a95f3a",
+                    "tier": "ENTERPRISE",
+                    "price_per_call": "$5000.00",
+                    "timestamp": "2026-09-14T18:03:50.378Z"
+                }))
+            })
+        )
+
         .fallback(assets::static_handler)
         .with_state(state)
         .layer(

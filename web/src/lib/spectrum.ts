@@ -290,7 +290,7 @@ export class SpectrumHub {
     if (watched.release !== 0) {
       return;
     }
-    watched.release = setTimeout(() => {
+    watched.release = window.setTimeout(() => {
       this.lanes.delete(key);
       this.send(lane, false);
     }, RELEASE_GRACE_MS);

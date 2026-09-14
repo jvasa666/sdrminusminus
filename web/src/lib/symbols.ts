@@ -125,7 +125,7 @@ export class SymbolHub {
     if (watched.listeners.size > 0 || watched.release !== 0) {
       return;
     }
-    watched.release = setTimeout(() => {
+    watched.release = window.setTimeout(() => {
       this.taps.delete(key);
       this.send(tap, false);
     }, RELEASE_GRACE_MS);

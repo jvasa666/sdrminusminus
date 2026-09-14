@@ -121,7 +121,7 @@ export class VideoHub {
     if (watched.listeners.size > 0 || watched.release !== 0) {
       return;
     }
-    watched.release = setTimeout(() => {
+    watched.release = window.setTimeout(() => {
       this.channels.delete(key);
       this.send(channel, false);
     }, RELEASE_GRACE_MS);

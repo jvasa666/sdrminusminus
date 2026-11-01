@@ -13,7 +13,7 @@ RUN test -f dist/index.html
 
 
 # --- pinned Soapy runtime ---------------------------------------------------------------
-FROM mambaorg/micromamba:2.9.0 AS soapy
+FROM mambaorg/micromamba:2.10.0 AS soapy
 ARG TARGETARCH
 COPY --chown=$MAMBA_USER:$MAMBA_USER packaging/soapy/conda-linux-64.lock /tmp/conda-linux-64.lock
 COPY --chown=$MAMBA_USER:$MAMBA_USER packaging/soapy/conda-linux-aarch64.lock /tmp/conda-linux-aarch64.lock
